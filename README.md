@@ -2,5 +2,5 @@
 
 Example of git
 
-Add more of the same
+remove less of the different
 new text for a new file
