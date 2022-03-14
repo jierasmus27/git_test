@@ -2,4 +2,4 @@
 
 Example of git
 
-Add more of the same
+Add more of the same and more
